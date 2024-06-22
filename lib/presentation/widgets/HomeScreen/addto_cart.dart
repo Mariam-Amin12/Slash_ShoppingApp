@@ -22,9 +22,9 @@ class _AddToMyCartState extends State<AddToMyCart> {
       padding: const EdgeInsets.all(2.0),
       child: Container(
         width: 33,
-        height: 33,
+        height: 35,
         decoration: BoxDecoration(
-            borderRadius: BorderRadius.circular(30),
+            borderRadius: BorderRadius.circular(40),
             color: HomeColors().darkGray),
         child: IconButton(
             icon: _added ? ConstIcons().added : ConstIcons().add,

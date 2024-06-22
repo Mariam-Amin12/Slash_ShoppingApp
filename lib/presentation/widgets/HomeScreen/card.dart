@@ -51,17 +51,21 @@ class _CardsState extends State<Cards> {
             widget.product.name!,
             style: Style().bodyMedium,
           ),
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              Text(
-                "EGP " + widget.product.price.toString(),
-                style: Style().titleMedium,
-              ),
-              SizedBox(width: 50,),
-              AddToMyCart(homeViewModel: widget.homeViewModel,
-              product: widget.product,),
-            ],
+          Container(
+            width: 170,
+
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Text(
+                  "EGP " + widget.product.price.toString(),
+                  style: Style().titleMedium,
+                ),
+                // SizedBox(width: 50,),
+                AddToMyCart(homeViewModel: widget.homeViewModel,
+                product: widget.product,),
+              ],
+            ),
           )
         ],
       ),
