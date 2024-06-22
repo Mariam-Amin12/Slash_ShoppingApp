@@ -1,4 +1,4 @@
-![Screenshot 2024-06-22 200009](https://github.com/Mariam-Amin12/Slash_shoppingApp/assets/128838373/d7a62df1-9497-4438-af77-038862bf79b0)# Shoppong app
+# Shoppong app
 
 A Home Screen for a shopping App task for **Slash Internship**
 
@@ -23,11 +23,11 @@ i have made for each of the product and cotegoies an entity,and for the each fec
 
 ## mobile HomeScreen
 
-![HomeScreen](Screenshot1.png)
+![HomeScreen](https://github.com/Mariam-Amin12/Slash_shoppingApp/Screenshot1.png)
 
 ## mobile HomeScreen
 
-![HomeScreen](Screenshot2.png)
+![Screenshot 2024-06-22 200009](https://github.com/Mariam-Amin12/Slash_shoppingApp/assets/128838373/d7a62df1-9497-4438-af77-038862bf79b0)
 
 ## Runnning the project
 
