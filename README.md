@@ -25,7 +25,7 @@ i have made for each of the product and cotegoies an entity,and for the each fec
 
 ![HomeScreen](https://github.com/Mariam-Amin12/Slash_shoppingApp/Screenshot1.png)
 
-## mobile HomeScreen
+## Web HomeScreen
 
 ![Screenshot 2024-06-22 200009](https://github.com/Mariam-Amin12/Slash_shoppingApp/assets/128838373/d7a62df1-9497-4438-af77-038862bf79b0)
 
