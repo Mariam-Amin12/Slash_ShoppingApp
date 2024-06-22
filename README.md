@@ -10,16 +10,16 @@ A Home Screen for a shopping App task for **Slash Internship**
 
 ## File Structure
 
-1. **Data Layer**: have all the data models , repositories,constant\
-the reposotory is an abstract class for the easy to apply any kind of data fetching i have used dummydata so i have implemented a subclass form the main reposotory
-2. **Domain Layer** : have the entitys and the use cases\
-i have made for each of the product and cotegoies an entity,and for the each fech of data has a spacific use case
+1. **Data Layer**: have all the data models, repositories, constant \
+the repository is an abstract class for the easy-to-apply any kind of data fetching i have used dummy data so I have implemented a subclass from the main repository
+2. **Domain Layer** : have the entities and the use cases\
+I have made for each of the products and categories an entity, and each fetch of data has a specific use case
 
-3. **Presentation Layer**: have Views, View Model , Business Logic ,Widget\
+3. **Presentation Layer**: have Views, View Model, Business Logic, Widget\
 *Views*:have all the needed pages (screens)
-*View Model*: in that task i have implemented two viewModel one for the app the main widets and one for the HomeScreen to provide it with data\
+*View Model*: in that task, I have implemented two views one for the app the main widgets and one for the HomeScreen to provide it  with data\
 *widgets*:have all the needed component\
-*Business Logic*: have used the cubit state mangament in fetching data and get its state and for navigation between pages using the navigation Bar
+*Business Logic*:I have used the cubit state management in fetching data and getting its state and for navigation between pages using the  Navigation Bar
 
 ## mobile HomeScreen
 
